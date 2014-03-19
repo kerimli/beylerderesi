@@ -1,0 +1,1 @@
+bu belge tek satırdır.
